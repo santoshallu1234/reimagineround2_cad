@@ -45,6 +45,7 @@ html,body{
     height: 100%;
     width: 100%;  
     margin: 0%;
+    
 }
 body{
     background-image: url("./ssscribble.svg");
@@ -179,7 +180,7 @@ body{
     background-repeat: no-repeat;
   }
 #hrt2{
-    top: 240%;
+    top: 70%;
     right: -10%;
     scale: 0.5;
    transform: rotate(20deg);
