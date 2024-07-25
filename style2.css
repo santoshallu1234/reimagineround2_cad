@@ -534,7 +534,7 @@ body{
  #p1{
     top:130%;
     background-color: #6d6283;
-    background: url("./dairyimages/post1.jpg");
+    background: url("./post1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -543,7 +543,7 @@ body{
  #p2{
     top:230%;
     background-color: #00704A;
-    background:url("./dairyimages/post2.jpg");
+    background:url("./post2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -553,7 +553,7 @@ body{
     top:250%;
     background-color: cornflowerblue;
    
-    background: url("./dairyimages/post3.jpg");
+    background: url("./post3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
